@@ -73,9 +73,11 @@ html{
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 
 }
-.projects .card button{
+.projects .card a{
     background-color:#6351ce ;
     border:none;
+    width: 30%;
+    justify-content: center;
 }
 
 .projects .cards{
