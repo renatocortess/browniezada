@@ -104,6 +104,17 @@ html{
     background-color: #6351ce;
     padding:2px
 }
+.action a {
+    background-color:#e8e7f3 ;
+    color:black;
+    border:none;
+    width: 20%;
+    justify-content: center;  
+}
+.action a:hover{
+    background-color:#e8e7f3be ;
+}
+
 
 /*MAIN - COLLABORATORS */
 .collaborators .row {
